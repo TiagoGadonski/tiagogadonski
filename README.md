@@ -1,7 +1,7 @@
 ### Olá, eu sou o Tiago Gadonski! 👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Full-Stack
-- 🌱 Procurando me desenvolver mais em Python
+- 🌱 Procurando me desenvolver mais em Python, React e Node.JS.
     <div>
         <a href="">
             <img heigh="180em"src="https://github-readme-stats.vercel.app/api?username=tiagogadonski&show_icons=true&theme=dark" alt="">
