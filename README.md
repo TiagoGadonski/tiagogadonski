@@ -1,7 +1,7 @@
 ### Olá, eu sou o Tiago Gadonski! 👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Full-Stack
-- 🌱 Procurando me desenvolver mais em Python, React e Node.JS.
+- 🌱 Procurando me desenvolver mais em .Net, React e Node.JS.
     <div>
         <a href="">
             <img heigh="180em"src="https://github-readme-stats.vercel.app/api?username=tiagogadonski&show_icons=true&theme=dark" alt="">
@@ -21,8 +21,6 @@
 
 <div>
     <a href="https://wa.me/5541998465129?text=Ola,+pode+me+ajudar?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt=""></a>
-    <a href="https://www.facebook.com/tiagocordeirodesign" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" alt=""></a>
-    <a href="https://www.instagram.com/tiagocordeirodesign/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt=""></a>
     <a href="https://www.linkedin.com/in/tiagogadonski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt=""></a>
 
   </div>
